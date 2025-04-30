@@ -801,7 +801,7 @@ strong {
   margin-bottom: 5px;
 }
 
-.projects-info {
+.projects-info-tag {
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
   color: var(--p-color);
