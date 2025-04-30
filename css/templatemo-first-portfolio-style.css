@@ -661,7 +661,7 @@ strong {
 
 
 /*---------------------------------------
-  SERVICES              
+  PROJECTS             
 -----------------------------------------*/
 .services,
 .featured {
@@ -797,6 +797,14 @@ strong {
   font-size: var(--menu-font-size);
   font-weight: var(--font-weight-medium);
   color: var(--secondary-color);
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+
+.projects-info {
+  font-size: var(--menu-font-size);
+  font-weight: var(--font-weight-medium);
+  color: var(--p-color);
   text-transform: uppercase;
   margin-bottom: 5px;
 }
