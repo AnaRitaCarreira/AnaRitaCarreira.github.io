@@ -789,6 +789,11 @@ strong {
   transition: all ease 0.5s;
 }
 
+.small-video {
+    width: 80px;
+    height: 60px;
+}
+
 .projects-title {
   margin-bottom: 20px;
 }
