@@ -814,6 +814,14 @@ strong {
   margin-bottom: 5px;
 }
 
+.project-links a {
+    text-decoration: none;
+    transition: transform 0.2s ease;
+}
+
+.project-links a:hover i {
+    transform: scale(1.2);
+}
 
 .projects-thumb .bi {
     transition: transform 0.2s ease;
