@@ -756,7 +756,7 @@ strong {
 -----------------------------------------*/
 .projects-thumb {
   background: var(--section-bg-color);
-  border: 2px solid var(--white-color);
+  border: 8px solid var(--white-color);
   border-radius: var(--border-radius-medium);
   position: relative;
   overflow: hidden;
