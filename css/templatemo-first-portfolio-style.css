@@ -789,6 +789,14 @@ strong {
   transition: all ease 0.5s;
 }
 
+.projects-image_two {
+  border-radius: var(--border-radius-medium);
+  display: block;
+  width: 50%;
+  transform: rotate(10deg) translateY(80px);
+  transition: all ease 0.5s;
+}
+
 .small-video {
     width: 500px;
     height: 350px;
