@@ -797,6 +797,11 @@ strong {
   transition: all ease 0.5s;
 }
 
+.projects-thumb:hover .projects-image_two,
+.projects-thumb:focus .projects-image_two {
+  transform: rotate(0) translateY(0);
+}
+
 .small-video {
     width: 500px;
     height: 350px;
